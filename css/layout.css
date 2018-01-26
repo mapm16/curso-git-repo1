@@ -1,7 +1,7 @@
 /* Fichero CSS para completar */
 html {
   font-size: 10px;
-  background-color: #87E80D;
+  background-color: #DD2AAA;
 }
 
 body {
@@ -76,6 +76,8 @@ main {
 
 article {
   flex: 4;
+
+  background-color: #64FF00;
 }
 
 aside {
